@@ -1,0 +1,165 @@
+﻿  entity.cpp
+  ghost.cpp
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\ghost.cpp(8,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\ghost.cpp(39,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\ghost.cpp(48,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\ghost.cpp(57,14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\ghost.cpp(66,14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\ghost.cpp(98,10): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\ghost.cpp(99,10): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Pacman.cpp
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(25,16): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(26,16): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(162,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(162,63): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(167,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(167,63): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(188,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(195,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(202,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(209,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(221,72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(221,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(233,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(233,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(245,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(245,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(257,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(257,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(268,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(268,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(280,73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(280,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(292,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(292,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(303,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(303,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(313,51): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(322,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(322,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(334,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(334,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(346,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(346,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(358,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(358,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(369,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(369,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(381,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(381,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(393,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(393,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(405,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(405,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(417,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(417,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(428,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(428,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(562,58): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(634,64): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(652,57): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(701,44): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(737,102): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(737,72): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(739,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(739,45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(758,102): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(758,72): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(760,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(760,45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(778,102): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(778,72): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(780,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\Pacman.cpp(780,45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  pickup.cpp
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\pickup.cpp(5,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  player.cpp
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(25,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(26,64): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(36,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(38,65): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(41,65): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(53,14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(55,65): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(58,65): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\player.cpp(70,14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  random.cpp
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\random.cpp(7,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\random.cpp(8,18): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  textDisplay.cpp
+  wall.cpp
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\wall.cpp(4,38): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\nauka\c++ na studia\projekt\Pacman\Pacman\wall.cpp(4,28): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Trwa generowanie kodu
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 413 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Pacman.vcxproj -> D:\nauka\c++ na studia\projekt\Pacman\x64\Release\Pacman.exe
